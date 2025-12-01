@@ -93,6 +93,3 @@ Ao final da execução, o programa exibirá:
 
 **Autor:** Marlos Emanuel da Silveira Fontes
 **Disciplina:** Programação Paralela / HPC
-
-```
-```
